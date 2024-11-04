@@ -3,3 +3,4 @@ word scramble game with pure HTML
 
 PARTICIPANT NAME - SAURAV ROY
 
+TRY OUT HERE - https://eyeblech.github.io/word-scramble-html/
